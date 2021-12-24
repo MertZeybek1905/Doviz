@@ -1,0 +1,14 @@
+.dovız{
+    width: 600px;
+    height: 600px;
+    background-color: rgb(47, 177, 177);
+    margin: auto;
+}
+.tutar{
+    width:200px;
+    height: 100px;
+    background-color: brown;
+    margin-left: 100px;
+    padding-top: 100px;
+
+}
